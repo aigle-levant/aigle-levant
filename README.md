@@ -18,7 +18,7 @@ I'm currently pursuing a Bachelor's degree in Computer Applications [currently i
 
 Email : aiglelevant@gmail.com
 
-LinkedIn : https://www.linkedin.com/in/prajanya-subramanian-30604033a/
+LinkedIn : https://www.linkedin.com/in/prajanya-subramanian/
 <!--
 **aigle-levant/aigle-levant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
