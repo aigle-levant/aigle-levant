@@ -23,6 +23,10 @@ I'm currently pursuing a Bachelor's degree in Computer Applications [currently i
  <img alt="Static Badge" src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge">
 </div>
 
+## roadmap.sh progress
+
+[![roadmap.sh](https://roadmap.sh/card/tall/67516f365039431075ac2a51?variant=dark)](https://roadmap.sh)
+
 ### Feel free to contact me
 
 Email : aiglelevant@gmail.com
