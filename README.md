@@ -12,6 +12,7 @@ I'm currently pursuing a Bachelor's degree in Computer Applications [currently i
  <img alt="Static Badge" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=black&style=for-the-badge">
  <img alt="Static Badge" src="https://img.shields.io/badge/-Bulma-00D1B2?logo=bulma&logoColor=white&style=for-the-badge">
  <img alt="Static Badge" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+ <img alt="Static Badge" src="https://img.shields.io/badge/-Angular-0F0F11?logo=angular&logoColor=white&style=for-the-badge">
  <img alt="Static Badge" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge">
  <img alt="Static Badge" src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge">
  <img alt="Static Badge" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
