@@ -21,6 +21,8 @@ I'm currently pursuing a Bachelor's degree in Computer Applications [currently i
  <img alt="Static Badge" src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge">
  <img alt="Static Badge" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
  <img alt="Static Badge" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge">
+   <img alt="Static Badge" src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge">
  <img alt="Static Badge" src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge">
  <img alt="Static Badge" src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge">
  <img alt="Static Badge" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge">
