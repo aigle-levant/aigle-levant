@@ -1,4 +1,4 @@
-## Aigle here 👋 
+## Hi there, Aigle here 👋 
 
 I'm currently pursuing a Bachelor's degree in Computer Applications [currently in my final yr]. Currently looking for internship opportunities in web-dev.
 
@@ -41,7 +41,7 @@ I'm currently pursuing a Bachelor's degree in Computer Applications [currently i
 
 ### Feel free to contact me
 
-Email : aiglelevant@gmail.com
+Email : officialprajanya@gmail.com
 
 LinkedIn : https://www.linkedin.com/in/prajanya-subramanian/
 
