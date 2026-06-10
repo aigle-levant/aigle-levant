@@ -1,7 +1,4 @@
 ## Hi there, Aigle here 👋 
-
-I'm currently pursuing a Bachelor's degree in Computer Applications [currently in my final yr]. Currently looking for internship opportunities in web-dev.
-
 ### Tech known
 
 <div>
