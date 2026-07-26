@@ -27,14 +27,18 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge">
  <img alt="Static Badge" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/-Firebase-DD2C00?logo=firebase&logoColor=white&style=for-the-badge">
- 
- <img alt="Static Badge" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge">
- 
- <img alt="Static Badge" src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge">
- <img alt="Static Badge" src="https://img.shields.io/badge/-Webflow-146EF5?logo=webflow&logoColor=white&style=for-the-badge">
- <img alt="Static Badge" src="https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white&style=for-the-badge">
- 
-</div>
+<img alt="Static Badge" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge">
+<img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge">
+<img alt="Claude Code" src="https://img.shields.io/badge/-Claude%20Code-D97757?logo=anthropic&logoColor=white&style=for-the-badge">
+<img alt="GitHub Copilot" src="https://img.shields.io/badge/-Copilot-000000?logo=githubcopilot&logoColor=white&style=for-the-badge">
+<img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge">
+<img alt="BullMQ" src="https://img.shields.io/badge/-BullMQ-B71C1C?logo=bullmq&logoColor=white&style=for-the-badge">
+<img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge">
+<img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=for-the-badge">
+<img alt="Fastify" src="https://img.shields.io/badge/-Fastify-000000?logo=fastify&logoColor=white&style=for-the-badge">
+<img alt="OpenAPI" src="https://img.shields.io/badge/-OpenAPI-6BA539?logo=openapiinitiative&logoColor=white&style=for-the-badge">
+<img alt="Zod" src="https://img.shields.io/badge/-Zod-3E67B1?logo=zod&logoColor=white&style=for-the-badge">
+<img alt="Redis" src="https://img.shields.io/badge/-Redis-FF4438?logo=redis&logoColor=white&style=for-the-badge">
 
 ### Feel free to contact me
 
